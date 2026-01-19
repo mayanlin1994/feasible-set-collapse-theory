@@ -1,5 +1,5 @@
 # feasible-set-collapse-theory
-##Motivation
+## Motivation
 
 （为什么要讨论这个问题）
 
@@ -31,7 +31,7 @@
 本研究并不试图提出更优策略，而是试图回答一个更基础的问题：
 在什么条件下，继续参与本身已经不再是理性的？
 
-##What Is a Feasible Set?
+## What Is a Feasible Set?
 
 （什么叫“可行域”）
 
@@ -74,7 +74,7 @@
 
 可行 = 不被结构性淘汰
 
-##When Do Feasible Options Disappear?
+## When Do Feasible Options Disappear?
 
 （可行选项什么时候会消失）
 
@@ -104,7 +104,7 @@
 在某一临界点后，多数理性行动同时失效。
 
 
-##Survival vs. Optimization
+## Survival vs. Optimization
 
 （存活逻辑 vs 优化逻辑）
 
@@ -133,7 +133,7 @@
 在此意义上，优化失败并非理论缺陷，
 而是其适用前提已经不再成立。
 
-##What This Framework Does NOT Do
+## What This Framework Does NOT Do
 
 （这套框架不做什么）
 
@@ -156,7 +156,7 @@
 本文提出的是一种判别视角，
 而非一套可执行算法。
 
-##Open Questions
+## Open Questions
 
 （开放问题）
 
